@@ -197,7 +197,7 @@ img {
 
 .about-icon-box {
   display: flex;
-  width: 264px;
+  /* width: 264px; */
   height: 112px;
   flex-shrink: 0;
 
@@ -206,10 +206,11 @@ img {
   background: var(--CLOUD, #f4f4fd);
   margin-bottom: 8px;
   justify-content: center;
+  align-items: center;
 }
 
 .about-icon {
-  margin-top: 24px;
+  /* margin-top: 24px; */
 }
 
 .about-list {
