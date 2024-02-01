@@ -205,10 +205,11 @@ img {
   border: 1px solid var(--LIGHT-SLATE, #8e8f99);
   background: var(--CLOUD, #f4f4fd);
   margin-bottom: 8px;
+  justify-content: center;
 }
 
 .about-icon {
-  margin: 24px 100px;
+  margin-top: 24px;
 }
 
 .about-list {
